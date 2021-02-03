@@ -92,7 +92,7 @@ namespace MetallicaTrivia2
             Console.WriteLine();
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.White;
-           
+
         }
 
         //QUIT PLAYING METHODS
@@ -101,7 +101,7 @@ namespace MetallicaTrivia2
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine("Thanks for Playing!");
-  
+
         }
         public void SeeYaLaterWhite()
         {
