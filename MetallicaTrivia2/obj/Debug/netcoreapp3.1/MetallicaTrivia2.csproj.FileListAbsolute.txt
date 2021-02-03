@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\obj\Debug\netcoreapp3.1\MetallicaTrivia2.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\obj\Debug\netcoreapp3.1\MetallicaTrivia2.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\obj\Debug\netcoreapp3.1\MetallicaTrivia2.AssemblyInfo.cs
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\obj\Debug\netcoreapp3.1\MetallicaTrivia2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\bin\Debug\netcoreapp3.1\MetallicaTrivia2.exe
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\bin\Debug\netcoreapp3.1\MetallicaTrivia2.deps.json
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\bin\Debug\netcoreapp3.1\MetallicaTrivia2.runtimeconfig.json
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\bin\Debug\netcoreapp3.1\MetallicaTrivia2.runtimeconfig.dev.json
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\bin\Debug\netcoreapp3.1\MetallicaTrivia2.dll
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\bin\Debug\netcoreapp3.1\MetallicaTrivia2.pdb
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\obj\Debug\netcoreapp3.1\MetallicaTrivia2.dll
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\obj\Debug\netcoreapp3.1\MetallicaTrivia2.pdb
+C:\Users\Student\source\repos\MetallicaTrivia2\MetallicaTrivia2\obj\Debug\netcoreapp3.1\MetallicaTrivia2.genruntimeconfig.cache

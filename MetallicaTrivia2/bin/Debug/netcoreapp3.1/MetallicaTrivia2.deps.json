@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MetallicaTrivia2/1.0.0": {
+        "runtime": {
+          "MetallicaTrivia2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetallicaTrivia2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
