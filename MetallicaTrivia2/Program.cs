@@ -31,17 +31,6 @@ namespace MetallicaTrivia2
 
             }
 
-
-
-
-
-
-
-
-
-
-
-
         }
     }
 }

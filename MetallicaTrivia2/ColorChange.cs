@@ -6,18 +6,6 @@ namespace MetallicaTrivia2
 {
     public class ColorChange
     {
-
-        /* public void ColorsToChange()
-         {
-             Console.BackgroundColor = ConsoleColor.DarkBlue;
-             Console.ForegroundColor = ConsoleColor.Cyan;
-             Console.ForegroundColor = ConsoleColor.DarkCyan;
-             Console.ForegroundColor = ConsoleColor.White;
-             Console.BackgroundColor = ConsoleColor.Black;
-             Console.ForegroundColor = ConsoleColor.DarkGray;
-             Console.ForegroundColor = ConsoleColor.Red;
-         }
-        */
         //HEADER COLOR METHODS
         public void DarkBlueCyanHead()
         {

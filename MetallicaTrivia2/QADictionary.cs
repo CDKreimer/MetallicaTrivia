@@ -4,9 +4,6 @@ using System.Text;
 
 namespace MetallicaTrivia2
 {
-    //create method if answered correctly add 1 then get total count
-
-    //create method that takes the string to display and color then you can call that method instead of duplicating it
     class QADictionary
     {
         private int CountCorrect;
@@ -43,9 +40,6 @@ namespace MetallicaTrivia2
         {
             foreach (KeyValuePair<string, string> loopQuestions in MetallicaTriviaDict)
             {
-
-                //   Console.WriteLine($"{looping.Key}"); //question
-                // Console.WriteLine($"{looping.Value}");//answer 
                 questionAsk(loopQuestions.Key, loopQuestions.Value);
                 line.DarkGrayReadyNext();
                 string playerChoice = Console.ReadLine();
@@ -58,7 +52,6 @@ namespace MetallicaTrivia2
                     Console.WriteLine($"You got {CountWrong} questions wrong.");
                     break;
                 }
-
             }
         }
         public bool metallicaLoopAnswer()
@@ -66,13 +59,7 @@ namespace MetallicaTrivia2
             bool answer = false;
             foreach (KeyValuePair<string, string> loopAnswers in MetallicaTriviaDict)
             {
-
-                //   Console.WriteLine($"{looping.Key}"); //question
-                // Console.WriteLine($"{looping.Value}");//answer 
-                //  questionAnswer(loopAnswers.Key, loopAnswers.Value);
                 questionAsk(loopAnswers.Key, loopAnswers.Value);
-
-
             }
             return answer;
         }
@@ -95,33 +82,12 @@ namespace MetallicaTrivia2
 
                 return false;
             }
-
-
         }
         public void questionAnswer(string question, string answer)
         {
             Console.WriteLine($"{answer}");
         }
-
-        /* public void GameCounts(int correct, int wrong)
-          {
-
-              Console.ForegroundColor = ConsoleColor.Cyan;
-              Console.WriteLine($"You got {co} questions right!");
-              Console.ForegroundColor = ConsoleColor.Red;
-              Console.WriteLine($"You got XX questions wrong.");
-          }
-        */
-
     }
-
-
-
-
-
-
-
-
 
 }
 
