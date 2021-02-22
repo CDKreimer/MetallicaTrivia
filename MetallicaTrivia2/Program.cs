@@ -6,12 +6,17 @@ namespace MetallicaTrivia2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            QADictionary triviaDict = new QADictionary();
-
             WelcomeHeader header = new WelcomeHeader();
-            header.Header();
             ColorChange line = new ColorChange();
+
+
+            //Console.WriteLine("Hello World!");
+            QADictionary triviaDict = new QADictionary();
+            
+            header.Header2();
+            header.Header3();
+            //header.Header();
+            
             line.ReadyToPlayDarkGrayWhite(); // Ready to play
 
             while (true)
